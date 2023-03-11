@@ -1,9 +1,12 @@
 # Reto-4.
 Reto No.4
 
-´´´
+
+
 def numeroPrimo(n):
+
     if n < 2:
+    
         return False
     for i in range(2, n):
         if n % i == 0:
@@ -12,6 +15,7 @@ def numeroPrimo(n):
 
 
 def cantidad(n):
+
     c = 0
     i = 0
     while c < n:
@@ -23,4 +27,5 @@ def cantidad(n):
 
 cantidad(25)
 
-´´´
+
+
