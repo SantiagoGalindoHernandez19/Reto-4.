@@ -53,5 +53,8 @@ z=(a+x)/2
 sera un resultado aproximado 
 
 x=a/z
+fin
 
-FIN![RETO 4](https://user-images.githubusercontent.com/124641609/224517656-76dc65e6-6d43-4bba-82ab-d01d0d0392ed.jpg)
+
+
+![RETO 4](https://user-images.githubusercontent.com/124641609/224517688-a5244a28-322b-4b4f-9983-38c3bb75883c.jpg)
